@@ -1,0 +1,10 @@
+*.log
+*.out
+*.err
+*.results
+*.annot.gz
+*.ldscore.gz
+*.sumstats.gz
+*.l2.M
+*.l2.M_5_50
+.DS_Store
