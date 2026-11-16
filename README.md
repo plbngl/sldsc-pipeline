@@ -2,7 +2,7 @@
 
 A SLURM-based pipeline for testing GWAS heritability enrichment in user-defined genomic annotations using stratified LD score regression (S-LDSC).
 
-The current pipeline provides LDSC software,v.3.0.1 (python3.9), GRCh38 reference data, European-ancestry LD scores, and baseline-LD v2.2 annotations.
+The current pipeline provides paths to shared LDSC software,v.3.0.1 (python3.9), GRCh38 reference data, European-ancestry LD scores, and baseline-LD v2.2 annotations.
 
 HT users only need to provide their genomic annotations and configure an output directory, and optionally provide their own GWAS of interest if not present in the shared resources.
 
